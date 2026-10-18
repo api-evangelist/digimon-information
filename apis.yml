@@ -39,7 +39,8 @@ apis:
   - name: Digimon Information
     description: "Provides information about digimon creatures"
     humanURL: https://digimon-api.vercel.app/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
